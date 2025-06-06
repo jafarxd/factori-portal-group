@@ -48,7 +48,7 @@ export default function HomePage() {
     },
     { name: "Marcus Nguyen", worked_on: "" },
     { name: "Evan Lei", worked_on: "" },
-    { name: "Jafar Al-Saheli", worked_on: "" },
+    { name: "Jafar Al-Salehi", worked_on: "Assisted in creating the sample data script to populate tables with realistic rows for development and demonstration purposes." },
   ];
 
   return (
